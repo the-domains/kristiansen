@@ -1,0 +1,28 @@
+name: Kristiansen
+favicon: null
+layout_spectrum: 0.6430584138724953
+typography_spectrum: 0.5573815978132188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.056983719347044826
+  lightness: 0.2836827374994755
+  saturation: 0.6301364365499467
+  rhythmicContrast: 0.3889112735632807
+purpose: []
